@@ -4,6 +4,8 @@
 
 # Portfólio do Demitry
 
+[See thin in :us:English:uk: ](README.md)
+
 Olá, e bem vindo ao meu portfólio! Aqui você poderá encontrar algumas informações sobre mim e minhas habilidades em ciência de dados através de alguns projetos listados.
 
 ## Demitry Santos

@@ -1,5 +1,7 @@
 # Demitry's Portfolio
 
+[Leia isso em :brazil:Português do Brasil :brazil: ](README_ptbr.md)
+
 Hello, and welcome to my portfolio! Here you can find some information about me and see my data science skills through some listed projects.
 
 ## Demitry Santos
