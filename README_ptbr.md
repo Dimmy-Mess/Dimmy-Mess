@@ -26,7 +26,7 @@ Olhando para minhas habilidades abaixo e os projetos apresentados na próxima se
 
 **Machine Learning**: Regressão, Classificação, *Clustering*
 
-Links:
+**Links:**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/demitry-messias-19a1993b) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dimmy-Mess) ![](https://img.shields.io/badge/-Lattes-brightgreen&endpoint?url=http://lattes.cnpq.br/5754556084572401)
 
@@ -34,8 +34,8 @@ Links:
 
 * [**Rossman Stores Sales**](https://github.com/Dimmy-Mess/RossmanStoresSales)
 
-  ​	Um projeto de Regressçao para fazer previsões de venda das unidades de uma rede farmacêutica, prevendo ganhos de até 200 milhões de reais.
+  ​	Um projeto de Regressão para fazer previsões de venda das unidades de uma rede farmacêutica, prevendo ganhos de até 200 milhões de reais.
 
 * [**Health Insurance Crossell**](https://github.com/Dimmy-Mess/HealthInsuranceCrossSell)
 
-  ​	Uma aplicação *lean to rank* para a venda cruzada de seguros de automóvel aos novos clientes de uma companhia de seguros, apresentando possibilidades de ganhos de até 9 miloes em comparação com a operação padrão da empresa.
+  ​	Uma aplicação *learning to rank* para a venda cruzada de seguros de automóvel aos novos clientes de uma companhia de seguros, apresentando possibilidades de ganhos de até 9 miloes em comparação com a operação padrão da empresa.

@@ -24,9 +24,7 @@ Looking at my skills below and my projects in the next section, you can discover
 
 **Machine Learning**: Regression, Classification, Clustering
 
-[linkedin.com/in/demitry-messias-19a1993b](https://www.linkedin.com/in/demitry-messias-19a1993b)
-
-Links:
+**Links:**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/demitry-messias-19a1993b) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dimmy-Mess) ![](https://img.shields.io/badge/-Lattes-brightgreen&endpoint?url=http://lattes.cnpq.br/5754556084572401)
 
